@@ -1,3 +1,6 @@
 [submodule "kbae_application_service"]
 	path = kbae_application_service
 	url = https://github.com/Pflanzmann/kbae_application_service
+[submodule "kbe_calculator_service"]
+	path = kbe_calculator_service
+	url = https://github.com/Pflanzmann/kbe_calculator_service
