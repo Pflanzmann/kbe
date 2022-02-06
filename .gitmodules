@@ -10,3 +10,6 @@
 [submodule "kbe_frontend"]
 	path = kbe_frontend
 	url = https://github.com/Pflanzmann/kbe_frontend.git
+[submodule "kbe_storage_service"]
+	path = kbe_storage_service
+	url = https://github.com/Pflanzmann/kbe_storage_service.git
