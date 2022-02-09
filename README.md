@@ -59,16 +59,16 @@ To start the server
 npm start
 ```
 
-And open the app in your favourite browser (we recommend [Firefox](https://www.mozilla.org/en-US/firefox/download/thanks/))
+And open the app in your favourite browser (I recommend [Chrome](https://www.google.com/intl/de_de/chrome/))
 via ```localhost:3000 ```.
 
 ## Architecture and Implementation
 
 ### Architecture Diagram
-<img src="https://i.imgur.com/vEjDTTq.png" alt="Component diagram of the Christmasshop" height="300px">
+<img src="https://i.imgur.com/vEjDTTq.png" alt="THE BEST ARCHITECTURE DIAGRAM KNOWN TO HUMANKIND" height="300px">
 
 ### Sequence Diagram
-<img src="https://i.imgur.com/G1EnCmh.png" alt="Component diagram of the Christmasshop" height="300px">
+<img src="https://i.imgur.com/G1EnCmh.png" alt="THE BEST SEQUENCE DIAGRAM KNOWN TO HUMANKIND" height="300px">
 
 ## Used Technologies
 
@@ -85,7 +85,7 @@ via ```localhost:3000 ```.
 
 |  Name  | MatrikelNr.
 | ------ | ------ | 
-| Ronyn Brzeski | 0569420
+| Ronny Brzeski | 0569420
 
 ## License
 
@@ -99,7 +99,4 @@ obtain a copy of the License at
 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS,
 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and
 limitations under the License.
-
-
-<img src="https://c.tenor.com/SYpRfoThETsAAAAC/black-cat-christmas-tree.gif" alt="A lot of black cats are photoshopped together to resemble the shape of a christmas tree. Their eyes are blinking irregularly, mimicking fairy lights." height="500px">
 
